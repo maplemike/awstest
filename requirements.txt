@@ -2,6 +2,8 @@ Django==1.7.2
 PyYAML==3.11
 awsebcli==3.0.10
 cement==2.4.0
+dj-static==0.0.6
 jmespath==0.5.0
 python-dateutil==2.3
 six==1.8.0
+static3==0.5.1
