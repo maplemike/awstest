@@ -1,6 +1,6 @@
 branch-defaults:
   master:
-    environment: null
+    environment: ensDJango-env
 global:
   application_name: ens-django
   default_ec2_keyname: MikeD3
