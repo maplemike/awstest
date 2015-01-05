@@ -1,9 +1,9 @@
 branch-defaults:
   master:
-    environment: ens-testing-dev
+    environment: null
 global:
-  application_name: ens-testing
-  default_ec2_keyname: null
+  application_name: ens-django
+  default_ec2_keyname: MikeD3
   default_platform: Python 3.4 (Preconfigured - Docker)
   default_region: us-west-2
   profile: eb-cli
